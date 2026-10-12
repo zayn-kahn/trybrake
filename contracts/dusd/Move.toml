@@ -1,0 +1,6 @@
+[package]
+name = "dusd"
+edition = "2024"
+license = "MIT"
+
+[dependencies]

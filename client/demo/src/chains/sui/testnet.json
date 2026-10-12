@@ -1,0 +1,8 @@
+{
+  "network": "testnet",
+  "explorer": "https://suiscan.xyz/testnet",
+  "brakePackage": "0xe545ff764833b01d59ecf0da6e068900d82cea629675c328f8d32bcce3008a05",
+  "dusdPackage": "0x697839ad30db5c1171f2d7001340d7df46439b15437b74d297fef0e5eb04573e",
+  "dusdFaucet": "0x2f28f1bacb1ca70f778ffa993c08d1fda5f39d85fcfce2be44183c461ec47d83",
+  "grpc": "https://fullnode.testnet.sui.io:443"
+}
